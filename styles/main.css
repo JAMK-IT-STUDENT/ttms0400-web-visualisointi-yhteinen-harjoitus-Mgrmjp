@@ -1,5 +1,8 @@
 body {
     margin: 0;
+    font-family: 'PT Sans', sans-serif;
+    text-transform: uppercase;
+    color: #262626;
 }
 
 
@@ -15,4 +18,34 @@ header, section, nav, main, article {
     width: 100vw;
     padding: 15px 10px 15px 10px;
     text-align: center;
+}
+
+nav {
+    background-color: #3a66ad;
+}
+
+header {
+    background-color: #9cbef4;
+}
+
+main {
+    background-color: #e8f6ff;
+}
+
+section {
+    background-color: #7fd0ff;
+}
+
+/* Background colors */
+
+.bg-yellow {
+    background-color: #ffd263;
+}
+
+.bg-lily {
+    background-color: #c296ff;
+}
+
+.bg-red {
+    background-color: #ff6262;
 }
