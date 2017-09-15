@@ -30,7 +30,7 @@ nav {
 
 header {
     background-color: #9cbef4;
-    height: 100px;
+    height: 150px;
 }
 
 main {
@@ -39,7 +39,7 @@ main {
 }
 
 section {
-    background-color: #7fd0ff;
+    background-color: #aae0ff;
 }
 
 article {
@@ -62,26 +62,40 @@ article {
 
 /* Tablet Styles */
 @media only screen and (min-width: 401px) and (max-width: 960px) {
-  section,
-  .bg-yellow,
-  .bg-lily,
-  .bg-red {
-    width: 50%;
-  }
+    section,
+    .bg-yellow,
+    .bg-lily,
+    .bg-red {
+        width: 50%;
+    }   
+    article {
+        height: 200px;
+    }
 }
 
 /* Desktop Styles */
 @media only screen and (min-width: 961px) {
-  body {
-    width: 960px;
-    margin: 0 auto;
-  }
-  .bg-yellow,
-  .bg-lily,
-  .bg-red {
-    width: 33.3%;
-  }
-  header {
-    height: 400px;
-  }
+    body {
+        width: 960px;
+        margin: 0 auto;
+    }
+    .bg-yellow,
+    .bg-lily,
+    .bg-red {
+        width: 33.3%;
+    }
+    article {
+        height: 250px;
+    }
+    header {
+        height: 300px;
+    }
+    
+    section {
+        height: 100px;
+        order: 1;
+    }
+    main {
+        order: 2;
+    }
 }
