@@ -11,4 +11,4 @@
   
 **Balloon.css** mahdollistaa infolaatikoiden lisäämisen elementteihin ilman JavaScriptiä. Hyvä keino antaa lisätietoa asioista, eikä vie turhaa tilaa sivulta.
   
-Mockup: 
+Mockup: https://www.fluidui.com/editor/live/preview/cF82MGNYVk9sbFpPcldJNVc4Zms3RDhudEkwU1NNNk1Deg==
