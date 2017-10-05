@@ -10,4 +10,5 @@
 **Animate.css** kirjastolla saa näyttäviä animaatioita helposti. Hyvät ohjeet käytöstä GitHubissa. https://github.com/daneden/animate.css
   
 **Balloon.css** mahdollistaa infolaatikoiden lisäämisen elementteihin ilman JavaScriptiä. Hyvä keino antaa lisätietoa asioista, eikä vie turhaa tilaa sivulta.
-
+  
+Mockup: 
