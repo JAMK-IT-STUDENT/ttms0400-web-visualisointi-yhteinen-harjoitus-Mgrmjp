@@ -7,7 +7,6 @@ body {
     flex-wrap: wrap;
 }
 
-
 /* Make EVERYTHING use border-box */
 *, *:before, *:after {
     -webkit-box-sizing: border-box;
@@ -37,6 +36,16 @@ section {
     background-color: #aae0ff;
 }
 
+#kuVei {
+    max-width: 100%;
+    height: 300px;
+}
+
+#formBoi {
+    height: 250px;
+    background-color: #d2ffc6;
+}
+
 article {
     height: 150px;
 }
@@ -55,8 +64,21 @@ article {
     background-color: #ff6262;
 }
 
+#kuva {
+    margin: 0;
+    padding: 0;
+    display: block;
+    height: 100%;
+}
+
 /* Tablet Styles */
 @media only screen and (min-width: 401px) and (max-width: 960px) { 
+    #formBoi {
+        height: 300px;
+        background-color: #d2ffc6;
+        max-width: 100%;
+    }
+    
     article {
         height: 200px;
     }
@@ -64,6 +86,11 @@ article {
 
 /* Desktop Styles */
 @media only screen and (min-width: 961px) {
+    #formBoi {
+        height: 200px;
+        background-color: #d2ffc6;
+    }
+    
     body {
         width: 960px;
         margin: 0 auto;
