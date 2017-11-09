@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Keyframes and Animation</title>
+    <style>
+      body {
+        height: 60vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      @keyframes bgChange {
+        0%   {background-color: #cdff8e;}
+        25%  {background-color: #9bff1e;}
+        50%  {background-color: #cdff05;}
+        75%  {background-color: #6cc100;}
+        100% {background-color: #457c00;}
+      }
+
+      @keyframes moveButton {
+        0%   {margin-left: 0px;}
+        25%  {margin-left: 100px;}
+        50%  {margin-left: 200px;}
+        75%  {margin-left: 300px;}
+        100% {margin-left: 445px;}
+      }
+
+      .cmn-toggle {
+        visibility: hidden;
+      }
+      .cmn-toggle + label {
+        display: block;
+        position: relative;
+        cursor: pointer;
+      }
+      .cmn-toggle-round + label {
+        width: 500px;
+        height: 60px;
+        background-color: #dddddd;
+        border-radius: 60px;
+      }
+      .cmn-toggle-round + label:before,
+      .cmn-toggle-round + label:after {
+        display: block;
+        position: absolute;
+        top: 1px;
+        left: 1px;
+        bottom: 1px;
+        content: "";
+      }
+      .cmn-toggle-round + label:before {
+        right: 1px;
+        background-color: #f1f1f1;
+        border-radius: 60px;
+      }
+      .cmn-toggle-round + label:after {
+        width: 58px;
+        background-color: #fff;
+        border-radius: 100%;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+      }
+      .cmn-toggle-round:checked + label:before {
+        background-color: #4ec400;
+        animation: bgChange 3s ease-in-out;
+        animation-iteration-count: 2;
+        animation-direction: alternate;
+        animation-fill-mode: forwards;
+      }
+      .cmn-toggle-round:checked + label:after {
+        animation: moveButton 3s ease-in-out;
+        animation-iteration-count: 2;
+        animation-direction: alternate;
+        animation-fill-mode: forwards;
+        margin-left: 0px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="switch">
+      <input id="cmn-toggle-1" class="cmn-toggle cmn-toggle-round" type="checkbox">
+      <label for="cmn-toggle-1"></label>
+    </div>
+  </body>
+</html>

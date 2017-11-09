@@ -5,10 +5,13 @@
     <title>Nappulaharkkaa</title>
     <style>
     body {
-      height: 100vh;
+      height: 60vh;
       display: flex;
       align-items: center;
       justify-content: center;
+    }
+    input {
+      margin-right:150px;
     }
     .nappula {
       padding: 20px 40px;
@@ -19,6 +22,7 @@
       border: none;
       border-radius: 15px;
       cursor: pointer;
+      transition: padding 300ms ease-in-out 1s;
     }
     .nappula:hover {
     /* SASSissa käyttäisimme tähän lighten-funktiota! */
@@ -43,8 +47,9 @@
     }
     .nappula2:hover {
     /* SASSissa käyttäisimme tähän lighten-funktiota! */
-      background-color: #6b3aff;
+      background-color: #d10061;
       box-shadow: 0px 4px 3px #35005b;
+      transition: background-color 200ms ease-in-out 0.3s;
     }
     .nappula2:active {
     /* Täällä voisimme käyttää darken-funktiota, jos kirjoittelisimma SASS/LESS.. */
