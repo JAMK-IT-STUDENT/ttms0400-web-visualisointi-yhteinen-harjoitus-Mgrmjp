@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Nappulaharkkaa</title>
+    <style>
+    body {
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .nappula {
+      padding: 20px 40px;
+      font-size: 24px;
+      text-align: center;
+      color: white;
+      background-color: #7ad800;
+      border: none;
+      border-radius: 15px;
+      cursor: pointer;
+    }
+    .nappula:hover {
+    /* SASSissa käyttäisimme tähän lighten-funktiota! */
+      background-color: #9fff23;
+      padding: 30px 50px;
+    }
+    .nappula:active {
+    /* Täällä voisimme käyttää darken-funktiota, jos kirjoittelisimma SASS/LESS.. */
+      background-color: #c5ff7a;
+      padding: 5px 10px;
+    }
+    .nappula2 {
+      padding: 20px 40px;
+      font-size: 24px;
+      text-align: center;
+      color: white;
+      background-color: #3400d1;
+      border: none;
+      border-radius: 15px;
+      cursor: pointer;
+      text-transform: uppercase;
+    }
+    .nappula2:hover {
+    /* SASSissa käyttäisimme tähän lighten-funktiota! */
+      background-color: #6b3aff;
+      box-shadow: 0px 4px 3px #35005b;
+    }
+    .nappula2:active {
+    /* Täällä voisimme käyttää darken-funktiota, jos kirjoittelisimma SASS/LESS.. */
+      background-color: #ac39ff;
+    }
+    .nappula3 {
+      padding: 20px 40px;
+      font-size: 34px;
+      text-align: center;
+      color: white;
+      background-color: #f4a041;
+      border: none;
+      border-radius: 15px;
+      cursor: pointer;
+    }
+    .nappula3:hover {
+    /* SASSissa käyttäisimme tähän lighten-funktiota! */
+      background-color: #e542f4;
+    }
+    .nappula3:active {
+    /* Täällä voisimme käyttää darken-funktiota, jos kirjoittelisimma SASS/LESS.. */
+      background-color: #41f44a;
+    }
+    </style>
+  </head>
+  <body>
+    <input class="nappula" type="button" value="Paina jo!" />
+
+    <input class="nappula2" type="button" value="Paina jo!" />
+
+    <input class="nappula3" type="button" value="Paina jo!" />
+  </body>
+</html>
