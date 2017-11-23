@@ -1,4 +1,6 @@
-## Web-visualisointi repo | K2038 Miikka Mäkelä
+### Web-visualisointi repo | K2038 Miikka Mäkelä
+
+<br> <br> <br>
 
 # CSS-kirjasto-FW-harkka
 *Bootstrap, Google Fonts, FontAwesome, Animate.css ja Balloon.css.*  
