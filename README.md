@@ -1,6 +1,8 @@
 ### Web-visualisointi repo | K2038 Miikka Mäkelä
 
-<br> <br> <br>
+`GitHub Pages toiminnassa. mgrmjp.github.io/ + harkkakansion nimi niin aukee.`
+
+<br> <br>
 
 # CSS-kirjasto-FW-harkka
 *Bootstrap, Google Fonts, FontAwesome, Animate.css ja Balloon.css.*  
