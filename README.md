@@ -1,6 +1,7 @@
 ### Web-visualisointi repo | K2038 Miikka Mäkelä
 
 `GitHub Pages toiminnassa. mgrmjp.github.io/ + harkkakansion nimi niin aukee.`
+
 `Harkkatyö: simplymgr.com`
 
 <br> <br>
