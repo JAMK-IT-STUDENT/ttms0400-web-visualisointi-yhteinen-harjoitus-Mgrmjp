@@ -1,4 +1,4 @@
-### Web-visualisointi repo | K2038 Miikka Mäkelä
+### Web-visualisointi repo | K2038 Miikka Mäkelä | GH-Pages: <a href="mgrmjp.github.io">mgrmjp.github.io</a>
 
 `Harkkatyö:` <a href="simplymgr.com">simplymgr.com</a>
 
