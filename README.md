@@ -12,7 +12,9 @@
 
 <a href="mgrmjp.github.io/vko41/bs-teema">VKO 41 BS TEEMAN LAITTAMINEN</a>
 
-<a href="mgrmjp.github.io/vko44">VKO 44 ANIMAATIO</a>
+<a href="mgrmjp.github.io/vko44/nappulaa.html">VKO 44 NAPPULAT</a>
+
+<a href="mgrmjp.github.io/vko44/keyframes.html">VKO 44 PALKKIANIMAATIO</a>
 
 # CSS-kirjasto-FW-harkka
 *Bootstrap, Google Fonts, FontAwesome, Animate.css ja Balloon.css.*  
