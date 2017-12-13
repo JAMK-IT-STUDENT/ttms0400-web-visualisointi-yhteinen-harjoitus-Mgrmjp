@@ -6,7 +6,7 @@
 
 <a href="mgrmjp.github.io/vko39">VKO 39 RESPONSIIVISUUS</a>
 
-<a href="mgrmjp.github.io/vko40">VKO 40 FLEX></a>
+<a href="mgrmjp.github.io/vko40">VKO 40 FLEX</a>
 
 <a href="mgrmjp.github.io/vko41">VKO 41 BOOTSTRAP VAKIO</a>
 
