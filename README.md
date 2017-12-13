@@ -4,6 +4,7 @@
 
 `Harkkatyö: simplymgr.com`
 
+
 <a href="mgrmjp.github.io/vko39">VKO 39 RESPONSIIVISUUS</a>
 
 <a href="mgrmjp.github.io/vko40">VKO 40 FLEX></a>
@@ -13,10 +14,6 @@
 <a href="mgrmjp.github.io/vko41/bs-teema">VKO 41 BS TEEMAN LAITTAMINEN</a>
 
 <a href="mgrmjp.github.io/vko44">VKO 44 ANIMAATIO</a>
-
-
-
-<br> <br>
 
 # CSS-kirjasto-FW-harkka
 *Bootstrap, Google Fonts, FontAwesome, Animate.css ja Balloon.css.*  
