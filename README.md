@@ -1,20 +1,20 @@
-### Web-visualisointi repo | K2038 Miikka Mäkelä | GH-Pages: <a href="mgrmjp.github.io">mgrmjp.github.io</a>
+### Web-visualisointi repo | K2038 Miikka Mäkelä | GH-Pages: [mgrmjp.github.io](mgrmjp.github.io)
 
 `Harkkatyö:` <a href="simplymgr.com">simplymgr.com</a>
 
 ## Kurssiharkat
 
-<a href="mgrmjp.github.io/vko39">VKO 39 RESPONSIIVISUUS</a>
+[VKO 39 RESPONSIIVISUUS](mgrmjp.github.io/vko39)
 
-<a href="mgrmjp.github.io/vko40">VKO 40 FLEX</a>
+[VKO 40 FLEX](mgrmjp.github.io/vko40)
 
-<a href="mgrmjp.github.io/vko41">VKO 41 BOOTSTRAP VAKIO</a>
+[VKO 41 BOOTSTRAP VAKIO](mgrmjp.github.io/vko41)
 
-<a href="mgrmjp.github.io/vko41/bs-teema">VKO 41 BS TEEMAN LAITTAMINEN</a>
+[VKO 41 BS TEEMAN LAITTAMINEN](mgrmjp.github.io/vko41/bs-teema)
 
-<a href="mgrmjp.github.io/vko44/nappulaa.html">VKO 44 NAPPULAT</a>
+[VKO 44 NAPPULAT](mgrmjp.github.io/vko44/nappulaa.html)
 
-<a href="mgrmjp.github.io/vko44/keyframes.html">VKO 44 PALKKIANIMAATIO</a>
+[VKO 44 PALKKIANIMAATIO](mgrmjp.github.io/vko44/keyframes.html)
 
 # CSS-kirjasto-FW-harkka
 *Bootstrap, Google Fonts, FontAwesome, Animate.css ja Balloon.css.*  
