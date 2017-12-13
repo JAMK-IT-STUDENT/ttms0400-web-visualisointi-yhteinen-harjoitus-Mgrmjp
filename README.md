@@ -1,9 +1,8 @@
 ### Web-visualisointi repo | K2038 Miikka Mäkelä
 
-`GitHub Pages toiminnassa. mgrmjp.github.io/ + harkkakansion nimi niin aukee.`
+`Harkkatyö:` <a href="simplymgr.com">simplymgr.com</a>
 
-`Harkkatyö: simplymgr.com`
-
+## Kurssiharkat
 
 <a href="mgrmjp.github.io/vko39">VKO 39 RESPONSIIVISUUS</a>
 
